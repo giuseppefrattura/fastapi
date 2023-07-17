@@ -1,0 +1,7 @@
+#create venv
+python3 -m venv venv
+
+# activate venv
+. ./venv/bin/activate
+
+# il python da usare è in venv/bin/python
